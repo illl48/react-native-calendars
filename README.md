@@ -26,6 +26,14 @@ This project is compatible with Expo/CRNA (without ejecting), and the examples h
 $ npm install --save react-native-calendars
 ```
 
+Now we need to install [`react-native-gesture-handler`](https://github.com/kmagiera/react-native-gesture-handler).
+
+Rrun the following:
+
+```sh
+yarn add react-native-gesture-handler
+```
+
 The solution is implemented in JavaScript so no native module linking is required.
 
 ## Usage
